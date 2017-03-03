@@ -16,7 +16,7 @@ npm install react-native-segmented-control --save
 
 ## Props
 
-### Tabbar
+### SegmentedControl
 
 | prop | value | required/optional | comment |
 | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ npm install react-native-segmented-control --save
 | itemHeaderViewStyle | style | optional | header container style |
 
 
-### Tabbar.Item
+### SegmentedControl.Item
 
 | prop | value | required/optional | comment |
 | --- | --- | --- | --- |
