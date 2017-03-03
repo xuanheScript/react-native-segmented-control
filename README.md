@@ -71,3 +71,6 @@ import SegmentedControl from 'react-native-segmented-control';
 </SegmentedControl>
 
 ```
+
+###Methods
+* `update(number)` - select item.
