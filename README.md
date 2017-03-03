@@ -1,4 +1,4 @@
-# react-native-segmentedControl
+# react-native-segmented-control
 react-native-segmentedControl for( Android / Ios )
 
 
