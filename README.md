@@ -52,6 +52,7 @@ import SegmentedControl from 'react-native-segmented-control';
     itemHeaderViewStyle = {{
         paddingVertical:10,
     }}
+    ref = {e=>this.SegmentedControl=e}
 >
     <SegmentedControl.Item
         title = {'直播'}
@@ -74,3 +75,6 @@ import SegmentedControl from 'react-native-segmented-control';
 
 ###Methods
 * `update(number)` - select item.
+```javascript
+this.SegmentedControl.update(number)
+```
