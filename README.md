@@ -81,6 +81,10 @@ this.SegmentedControl.update(number)
 
 ## Screenshot
 
+# ios
+<img src="https://github.com/xuanheScript/react-native-segmented-control/blob/master/screenshot_ios1.png" width="285" style="margin-right:120px">
+<img src="https://github.com/xuanheScript/react-native-segmented-control/blob/master/screenshot_ios2.png" width="285">
+
 # android
 <img src="https://github.com/xuanheScript/react-native-segmented-control/blob/master/screenshot_android1.png" width="285">
 <img src="https://github.com/xuanheScript/react-native-segmented-control/blob/master/screenshot_android2.png" width="285">
