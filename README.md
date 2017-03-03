@@ -80,5 +80,7 @@ this.SegmentedControl.update(number)
 ```
 
 ## Screenshot
-![](https://github.com/ngstyle/react-native-tabBar/raw/master/screenshot/screenshot_ios.jpg)
-![](https://github.com/ngstyle/react-native-tabBar/raw/master/screenshot/screenshot_android.jpg)
+
+# android
+<img src="https://github.com/xuanheScript/react-native-segmented-control/blob/master/screenshot_android1.png" width="285">
+<img src="https://github.com/xuanheScript/react-native-segmented-control/blob/master/screenshot_android2.png" width="285">
