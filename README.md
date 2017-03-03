@@ -78,3 +78,7 @@ import SegmentedControl from 'react-native-segmented-control';
 ```javascript
 this.SegmentedControl.update(number)
 ```
+
+## Screenshot
+![](https://github.com/ngstyle/react-native-tabBar/raw/master/screenshot/screenshot_ios.jpg)
+![](https://github.com/ngstyle/react-native-tabBar/raw/master/screenshot/screenshot_android.jpg)
